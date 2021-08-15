@@ -1,0 +1,29 @@
+.myimg {
+   width: 304px;
+   height: 204px;
+   object-fit: cover;
+   border-radius: 50%;
+   !important
+}
+
+.containernew {
+   padding-left: 0px;
+   padding-right: 0px;
+   margin-right: 0px;
+   max-width: none;
+}
+
+.imgexpsize {
+   width: 246px;
+   height: 180px;
+}
+
+.borderformat {
+   border-color: #e0e0e0;
+   border-width: 1px;
+}
+
+.headexpformat {
+   font-weight: bold;
+   font-size: 30px;
+}
